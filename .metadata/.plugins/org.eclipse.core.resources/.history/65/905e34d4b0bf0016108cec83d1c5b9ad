@@ -1,5 +1,5 @@
 package cn.edu.usst.zmeng;
-//test1
+
 public class Overloading {
 
 	public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Overloading {
 	}
 
 }
-//test2
+
 class Student{
 	public String name;  //ĞÕÃû
 	public String studentID;  //Ñ§ºÅ
